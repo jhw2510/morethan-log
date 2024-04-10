@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Data Analyst",
     bio: "I am a data analyst who looks at the world widely through data.",
     email: "jhw2510@naver.com",
-    portfolio: "https://busy-calcium-100.notion.site/80de00b40ac143d0b40592d08b2f4639?pvs=4",
+    likedin: "heny",
     github: "https://github.com/jhw2510",
     instagram: "@heny._0",
   },
